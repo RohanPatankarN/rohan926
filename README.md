@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohan
-- 👀 I’m interested in data science related things such as ml,bigdata,python and data_mining 
+- 👀 my skills include data science related stuffs such as ml,bigdata,python,data_mining,tableu,powerbi,sql,mogoDB,excel etc
 - 🌱 I’m currently learning data_science engineering @jain university
 
 <!---
